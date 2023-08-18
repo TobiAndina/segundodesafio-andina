@@ -1,0 +1,65 @@
+[
+  {
+    "title": "ShortBoard 5.7",
+    "description": "Description 1",
+    "price": 150000,
+    "thumbnail": "ruta/short-5-7.jpg",
+    "code": "S0001",
+    "stock": 3,
+    "pid": 1
+  },
+  {
+    "title": "ShortBoard 6.2",
+    "description": "Description 1",
+    "price": 170000,
+    "thumbnail": "ruta/short-6-2.jpg",
+    "code": "S0002",
+    "stock": 4,
+    "pid": 2
+  },
+  {
+    "title": "LongBoard 7.6",
+    "description": "Description 1",
+    "price": 240000,
+    "thumbnail": "ruta/long-7-6.jpg",
+    "code": "L0001",
+    "stock": 2,
+    "pid": 3
+  },
+  {
+    "title": "LongBoard 9.4",
+    "description": "Description 1",
+    "price": 275000,
+    "thumbnail": "ruta/long-9-4.jpg",
+    "code": "L0002",
+    "stock": 1,
+    "pid": 4
+  },
+  {
+    "title": "RetroBoard 5",
+    "description": "Description 1",
+    "price": 225000,
+    "thumbnail": "ruta/retro-5.jpg",
+    "code": "R0001",
+    "stock": 2,
+    "pid": 5
+  },
+  {
+    "title": "RetroBoard 5-4",
+    "description": "Description 1",
+    "price": 250000,
+    "thumbnail": "ruta/retro-5-4.jpg",
+    "code": "R0002",
+    "stock": 2,
+    "pid": 6
+  },
+  {
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "id": null
+  }
+]
